@@ -1,1 +1,1 @@
-Dette er en test for git merge conflicts 
+Dette er en testteksttest for git merge conflicts 
