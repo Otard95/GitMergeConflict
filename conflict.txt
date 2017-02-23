@@ -1,1 +1,1 @@
-Dette er en testteksttest for git merge conflicts 
+Dette er også min linje
