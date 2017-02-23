@@ -1,1 +1,1 @@
-Dette er en test for git merge conflicts 
+conflict test tekst for å teste om tekst conflict i testen conflict
